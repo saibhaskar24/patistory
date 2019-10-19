@@ -1,5 +1,7 @@
 {
   "name": "patistory",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
