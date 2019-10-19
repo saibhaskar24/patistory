@@ -24,27 +24,27 @@ export class AppComponent {
     {
       title: 'Info',
       url: '/info',
-      icon: 'list'
+      icon: 'help'
     },
     {
       title: 'Prescription',
       url: '/prescription',
-      icon: 'list'
+      icon: 'medkit'
     },
     {
       title: 'Tests',
       url: '/tests',
-      icon: 'list'
+      icon: 'attach'
     },
     {
       title: 'Update Info',
       url: '/update',
-      icon: 'list'
+      icon: 'cloud-upload'
     },
     {
       title: 'Visits',
       url: '/visits',
-      icon: 'list'
+      icon: 'walk'
     },
     {
       title: 'Settings',
