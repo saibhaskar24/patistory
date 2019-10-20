@@ -22,7 +22,7 @@ export class ListPage implements OnInit {
   public items: Array<{ title: string; note: string; icon: string }> = [];
   constructor() {
       this.items.push({
-        title: 'Feaver  ' ,
+        title: 'Fever  ' ,
         note: '22/09/2019',
         icon: this.icons[Math.floor(Math.random() * this.icons.length)]
       });
